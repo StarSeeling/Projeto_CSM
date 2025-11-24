@@ -9,6 +9,8 @@ Melhorando em:
 HTML/CSS
 Mysql
 
+Site sobre contratação de serviços de manutenção de computadores. Na home ha os serviços oferecidos junto com uma descrição sobre mim. Incorpora um link para realizar um loguin para facilitar o gerenciamento das solicitações assim como determinar sua natureza. A barra de navegação joga o usuario diretamente pra sessão correspondente, contendo tambem botão para realizar login. Há dois tipos de login: o de visitante e o de administrador. A diferença é que o visitante pode criar o pedido e edita-lo, porem apenas o adm pode exclui-lo. Todas as contas criadas serão do tipo visitante havendo apenas uma com nivel de acesso adm
+
 Ferramentas utilizadas:
 Visual studios code
 Hosting Infinityfree
