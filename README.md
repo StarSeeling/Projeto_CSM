@@ -1,4 +1,18 @@
 # Projeto_CSM
+Membro: Adriel Rocha Lourenço
+Aprendendo:
+Javascript
+php
+Python
+
+Melhorando em:
+HTML/CSS
+Mysql
+
+Ferramentas utilizadas:
+Visual studios code
+Hosting Infinityfree
+
 1. Entidade Escolhida e Justificativa Para a implementação do CRUD, foi escolhida a entidade "Serviços". Como o projeto Starseeling trata de manutenção e configuração de computadores, a gestão do catálogo de serviços é fundamental. Coloquei duas opções base onde o administrador precisa ter autonomia para adicionar novos tipos de reparos, atualizar preços conforme o mercado e remover serviços descontinuados.
 
 2. Tecnologias Utilizadas:
