@@ -12,4 +12,4 @@ Ambiente de Desenvolvimento (Arch Linux): O desenvolvimento foi realizado em um 
 Obstáculos: tive dificuldades em aprender a linguagem php e me adaptar a como a linguagem funciona, as vezes em um parametro usa underscore e as vezes não o conhecimento em html e css ajudou um pouco, porem foi algo que tomou tempo.
 Solução: A solução foi estudar mais em sites como W3schools e ver alguns videos na internet aliado ao uso de IA generativa, e claro, tentativa e erro.
 
-Lógica de Edição: Preencher o formulário com dados existentes foi desafiador. Resolvido ao buscar o ID via método GET e injetar os valores nos atributos value dos inputs HTML.
+*Lógica de Edição: Preencher o formulário com dados existentes foi desafiador. Resolvido ao buscar o ID via método GET e injetar os valores nos atributos value dos inputs HTML.
